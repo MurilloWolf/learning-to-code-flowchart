@@ -1,4 +1,4 @@
-<img src="./images/fluxo-bg.jpeg" heigth="300px !important" width="50%" alt="background" />
+<img src="./images/fluxo-bg.jpeg" heigth="300px " width="850" alt="background" />
 
 # Aprendendo a programar - Fluxogramas
 
@@ -250,13 +250,8 @@ function adivinhar() {
 
 ## Conecte-se Comigo 🌐
 
-- **LinkedIn:** [Murillo Wolf](https://www.linkedin.com/in/murillo-wolf-dev/)
+- **[LinkedIn](https://www.linkedin.com/in/murillo-wolf-dev/)**
 
-  - Vamos nos conectar no LinkedIn! Compartilharei insights e atualizações regulares sobre [área de atuação].
+- **[Instagram - Wolves.dev](https://www.instagram.com/wolves.dev/)**
 
-- **Instagram:** [Wolves.dev](https://www.instagram.com/wolves.dev/)
-
-  - Siga-me no Instagram para acompanhar os bastidores, novidades e momentos divertidos do meu dia a dia.
-
-- **YouTube:** [Murillo Wolf](https://www.youtube.com/@murillowolf3485)
-  - Siga-me no Instagram para acompanhar os bastidores, novidades e momentos divertidos do meu dia a dia.
+- **[YouTube](https://www.youtube.com/@murillowolf3485)**
