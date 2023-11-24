@@ -1,10 +1,10 @@
-<img src="./images/fluxo-bg.jpeg" heigth="300px " width="850" alt="background" />
-
 # Aprendendo a programar - Fluxogramas
 
 ## Descrição
 
 Este repositório contém informações e recursos relacionados a fluxogramas. Os fluxogramas são representações visuais de processos ou sistemas, utilizando símbolos gráficos para representar etapas, decisões, e fluxo de dados. Eles são amplamente utilizados para documentar, analisar e otimizar processos em diversas áreas, como desenvolvimento de software, engenharia, negócios, entre outros.
+
+<img src="./images/fluxo-bg.jpeg" heigth="300px " width="850" alt="background" />
 
 ## Elementos do fluxograma
 
